@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IsmailAlamir, I am a civil  engineer
+- 🇯🇴  living in Amman - Jordan
+- 🌱 I’m currently learning Python  
+- 💪🏻 I am looking forward to further learning on software development
+- 📫 contact with me on email :IsAlAmir@hotmail.com
