@@ -9,7 +9,7 @@ A highly-motivated software developer who likes to take the initiative and seek 
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning Android. 
+- 🌱 I’m currently learning AI. 
 - 📫 How to reach me Isalamir@hotmail.com
 
 
